@@ -6,6 +6,6 @@ O objetivo deste sistema é gerenciar as reservas de salas de estudo do campus u
 
 ## Autores
 * **Caroline Maximo** - 163.650
-* **Gustavo Moreira Pacheco** - 
+* **Gustavo Moreira Pacheco** - 176.508
 
 ---
